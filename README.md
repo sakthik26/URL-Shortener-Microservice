@@ -8,16 +8,4 @@
 3. When I visit the shortened URL, it will redirect me to my original link.
 
 
-#### Creation Example:
-
-POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.google.com
-
-#### Usage:
-
-[this_project_url]/api/shorturl/3
-
-#### Will redirect to:
-
-http://forum.freecodecamp.com
-
 Use the following link to test - https://url-shortener-microservice-fc.glitch.me/
