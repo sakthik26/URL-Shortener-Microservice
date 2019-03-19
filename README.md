@@ -19,3 +19,5 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 #### Will redirect to:
 
 http://forum.freecodecamp.com
+
+Use the following link to test - https://url-shortener-microservice-fc.glitch.me/
